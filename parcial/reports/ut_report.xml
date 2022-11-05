@@ -1,0 +1,15 @@
+<testExecutions version="1">
+  <file path="src/app/app.component.spec.ts">
+    <testCase name="AppComponent should have as title 'parcial'" duration="18"/>
+    <testCase name="AppComponent should create the app" duration="4"/>
+  </file>
+  <file path="src/app/planta/planta.service.spec.ts">
+    <testCase name="Service: Planta should ..." duration="4"/>
+  </file>
+  <file path="src/app/planta/planta-list/planta-list.component.spec.ts">
+    <testCase name="PlantaListComponent should have 1 table" duration="30"/>
+    <testCase name="PlantaListComponent should have 3 rows table" duration="6"/>
+    <testCase name="PlantaListComponent should create" duration="5"/>
+    <testCase name="PlantaListComponent should have a header with 4 rows" duration="5"/>
+  </file>
+</testExecutions>
